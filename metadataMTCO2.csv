@@ -1,0 +1,12 @@
+name,title,type
+Country,Country name,string
+ISO 3166-1 alpha-3,ISO code,string
+Year,Year,In almost all cases this is calendar year,number
+Total,Total fossil CO2 emissions,millions of tonnes of CO2,Global Carbon Budget 2022,Global Carbon Project,2022v27,number,Licensed under Creative Commons Attribution 4.0 International,Friedlingstein et al 2020 (DOI: 10.5194/essd-12-3269-2020)
+Coal,Fossil CO2 emissions from Coal,millions of tonnes of CO2,Global Carbon Budget 2022,Global Carbon Project,2022v27,number,Licensed under Creative Commons Attribution 4.0 International,Friedlingstein et al 2020 (DOI: 10.5194/essd-12-3269-2020)
+Oil,Fossil CO2 emissions from Oil,millions of tonnes of CO2,Global Carbon Budget 2022,Global Carbon Project,2022v27,number,Licensed under Creative Commons Attribution 4.0 International,Friedlingstein et al 2020 (DOI: 10.5194/essd-12-3269-2020)
+Gas,Fossil CO2 emissions from Gas,millions of tonnes of CO2,Global Carbon Budget 2022,Global Carbon Project,2022v27,number,Licensed under Creative Commons Attribution 4.0 International,Friedlingstein et al 2020 (DOI: 10.5194/essd-12-3269-2020)
+Cement,Fossil CO2 emissions from Cement,millions of tonnes of CO2,Global Carbon Budget 2022,Global Carbon Project,2022v27,number,Licensed under Creative Commons Attribution 4.0 International,Friedlingstein et al 2020 (DOI: 10.5194/essd-12-3269-2020)
+Flaring,Fossil CO2 emissions from Flaring,millions of tonnes of CO2,Global Carbon Budget 2022,Global Carbon Project,2022v27,number,Licensed under Creative Commons Attribution 4.0 International,Friedlingstein et al 2020 (DOI: 10.5194/essd-12-3269-2020)
+Other,Fossil CO2 emissions from Other,millions of tonnes of CO2,Global Carbon Budget 2022,Global Carbon Project,2022v27,number,Licensed under Creative Commons Attribution 4.0 International,Friedlingstein et al 2020 (DOI: 10.5194/essd-12-3269-2020)
+Per Capita,Per capita fossil CO2 emissions,tonnes of CO2 per capita,Global Carbon Budget 2022,Global Carbon Project,2022v27,number,Licensed under Creative Commons Attribution 4.0 International,Friedlingstein et al 2020 (DOI: 10.5194/essd-12-3269-2020)
